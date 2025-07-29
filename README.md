@@ -1,4 +1,4 @@
-# OWASP Top Ten – Bug Bounty Reports  
+# Ten Bug Bounty Reports  
 **Module:** IE2062 – Web Security  
 **Institution:** Sri Lanka Institute of Information Technology (SLIIT)
 
